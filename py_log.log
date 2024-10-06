@@ -1,0 +1,2 @@
+ERROR:root:[Errno 2] No such file or directory: 'тћрят'
+ERROR:root:invalid literal for int() with base 10: 'ћтря'
