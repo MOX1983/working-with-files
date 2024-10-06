@@ -1,0 +1,72 @@
+[
+ {
+  "Name": "Izmailov",
+  "Surname": "Arseniy",
+  "Age": "19",
+  "Group": "isit",
+  "Average-score": "8.8"
+ },
+ {
+  "Name": "Chernaya",
+  "Surname": "Anastasia",
+  "Age": "21",
+  "Group": "pi",
+  "Average-score": "8.9"
+ },
+ {
+  "Name": "Popova",
+  "Surname": "Lidiya",
+  "Age": "19",
+  "Group": "fmo",
+  "Average-score": "7.6"
+ },
+ {
+  "Name": "Dmitrieva",
+  "Surname": "Darina",
+  "Age": "21",
+  "Group": "uir",
+  "Average-score": "6.4"
+ },
+ {
+  "Name": "Moskvin",
+  "Surname": "Vladimir",
+  "Age": "21",
+  "Group": "isit",
+  "Average-score": "6.7"
+ },
+ {
+  "Name": "Dmitriev",
+  "Surname": "Ilya",
+  "Age": "18",
+  "Group": "pi",
+  "Average-score": "9.8"
+ },
+ {
+  "Name": "Golubev",
+  "Surname": "Vladislav",
+  "Age": "18",
+  "Group": "fmo",
+  "Average-score": "5.2"
+ },
+ {
+  "Name": "Nikitin",
+  "Surname": "Makar",
+  "Age": "19",
+  "Group": "uir",
+  "Average-score": "7.9"
+ },
+ {
+  "Name": "Sidorov",
+  "Surname": "Artem",
+  "Age": "20",
+  "Group": "isit",
+  "Average-score": "8.0"
+ },
+ {
+  "Name": "Savina",
+  "Surname": "Daria",
+  "Age": "18",
+  "Group": "pi",
+  "Average-score": "7.0"
+ }
+]

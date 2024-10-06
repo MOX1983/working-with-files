@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+    <product>
+        <name>Smartphone</name>
+        <price>35000</price>
+        <quantity>10</quantity>
+        <category>Electronics</category>
+    </product>
+    <product>
+        <name>Laptop</name>
+        <price>60000</price>
+        <quantity>5</quantity>
+        <category>Electronics</category>
+    </product>
+    <product>
+        <name>Refrigerator</name>
+        <price>45000</price>
+        <quantity>3</quantity>
+        <category>Home Appliances</category>
+    </product>
+    <product>
+        <name>Coffee Maker</name>
+        <price>5000</price>
+        <quantity>7</quantity>
+        <category>Home Appliances</category>
+    </product>
+    <product>
+        <name>Chair</name>
+        <price>1500</price>
+        <quantity>20</quantity>
+        <category>Furniture</category>
+    </product>
+</products>

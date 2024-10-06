@@ -1,0 +1,37 @@
+[
+ {
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "year": 1869,
+  "genre": "Novel",
+  "copies": 5
+ },
+ {
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky",
+  "year": 1866,
+  "genre": "Novel",
+  "copies": 3
+ },
+ {
+  "title": "The Master and Margarita",
+  "author": "Mikhail Bulgakov",
+  "year": 1967,
+  "genre": "Fantasy",
+  "copies": 4
+ },
+ {
+  "title": "Anna Karenina",
+  "author": "Leo Tolstoy",
+  "year": 1877,
+  "genre": "Novel",
+  "copies": 6
+ },
+ {
+  "title": "The Idiot",
+  "author": "Fyodor Dostoevsky",
+  "year": 1869,
+  "genre": "Novel",
+  "copies": 2
+ }
+]
