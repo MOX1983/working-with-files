@@ -126,7 +126,7 @@ def main():
         print(ex)
 
 if __name__=="__main__":
-    main();
+    main()
 
 # Name,Surname,Age,Group,Average-score
 # Izmailov,Arseniy,19,isit,8.8
